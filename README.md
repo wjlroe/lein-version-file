@@ -1,5 +1,7 @@
 # lein-version-file
 
+[![Clojars Project](http://clojars.org/lein-version-file/latest-version.svg)](http://clojars.org/lein-version-file)
+
 A Leiningen plugin that writes your project version to a file
 (`./VERSION` in the root of your project).
 
